@@ -141,3 +141,6 @@ Make a call, allow browser using cameras, click on Settings icon, choose `avatar
 Original project - https://github.com/alievk/avatarify-python 
 
 Thanks for this amazing project, I just make it easier for normal users to run on their machines.
+=======
+# avatar_project.io
+>>>>>>> origin/main
